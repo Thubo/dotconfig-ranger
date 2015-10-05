@@ -1,0 +1,13 @@
+*
+!/.config
+!/.config/ranger
+!/.config/ranger/bookmarks
+!/.config/ranger/commands_full.py
+!/.config/ranger/commands.py
+!/.config/ranger/history
+!/.config/ranger/rc.conf
+!/.config/ranger/rifle.conf
+!/.config/ranger/scope.sh
+!/.config/ranger/tagged
+!/.gitignore.d
+!/.gitignore.d/ranger

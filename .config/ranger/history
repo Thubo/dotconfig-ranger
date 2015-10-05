@@ -1,0 +1,28 @@
+open_with `
+open_with vi
+shell -p ls
+shell git pull
+open_with vim
+delete\
+deletey
+mkdir ATIX
+mkdir Kunden
+rename RI\ Solution
+rename RI
+rename Development
+rename packages
+mkdir puppet
+rename site
+rename ATIX Hackday August 2015 Fotos (Lego)
+open_with 
+rename ATIX Hackday August 2015 Fotos (Lego).zip
+rename softwarl.dynmotd_
+help
+mkdir vagrant
+mkdir packer
+rename 
+rename elk-docker.wip
+rename elk-docker
+delete
+;
+
